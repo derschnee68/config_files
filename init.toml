@@ -21,7 +21,6 @@
     'cursorpos',
     'percentage',
   ]
-
   lint_engine = "ale"
 
 [[layers]]
